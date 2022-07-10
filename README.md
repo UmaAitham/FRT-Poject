@@ -5,7 +5,7 @@ Here i created a websit named as FoodieBlog to feel the extraordinary love with 
 
 #azure link https://white-dune-006d44d10.1.azurestaticapps.net/
 
-#HOME PAGE
+#HOME PAGE (it is a landing page to our FOODIEBLOG it can show different types of dishes)
 ![image](https://user-images.githubusercontent.com/89394921/178141425-4570c8e3-4cd6-41e6-a758-989be3a630ea.png)
 ![image](https://user-images.githubusercontent.com/89394921/178141669-8b6aca71-3911-48ad-8ee8-f878a277da7e.png)
 
