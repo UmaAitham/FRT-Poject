@@ -20,6 +20,10 @@ Here i created a websit named as FoodieBlog to feel the extraordinary love with 
 
 ![image](https://user-images.githubusercontent.com/89394921/178141662-349aaae2-5771-47c8-93c7-1ac146f54ac2.png)
 
+#AZURE PORTEL
+![image](https://user-images.githubusercontent.com/89394921/178142134-a6ee1885-93da-41e5-9bd4-57be8e6c3186.png)
+
+
 
 
 
